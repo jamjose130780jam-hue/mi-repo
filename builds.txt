@@ -1,7 +1,7 @@
 text
 name="JAM Wizard Build"
 version="1.0.0"
-url="https://drive.google.com/file/d/1GpZxeMDpumLpjz2WId5xe9_eJgAohLCI/view?usp=sharing"
+url="https://google.com?export=download&id=1.1GZxeMDpumLpjz2WId5xe9_eJgAohLCI"
 minor="http://"
 major="http://"
 boxapi="http://"
